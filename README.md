@@ -11,10 +11,10 @@ I'm a passionate software developer with a knack for creating efficient and scal
 
 ## 🛠️ Technologies & Tools
 
-- Languages: JavaScript, Python, Java, C++
+- Languages: Python, Java, JavaScript
 - Frontend: React, Angular, HTML, CSS
 - Backend: Node.js, Express, Django, Spring Boot
-- Databases: MySQL, PostgreSQL, MongoDB
+- Databases: PostgreSQL, MySQL, MongoDB
 - Cloud: AWS, Azure, Google Cloud
 - Others: Docker, Kubernetes, Git, CI/CD
 
@@ -26,13 +26,6 @@ I'm a passionate software developer with a knack for creating efficient and scal
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beasordi&layout=compact&theme=radical)
 
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/beasordi/)
-- [Twitter](https://twitter.com/beasordi)
-- [Personal Website](https://beasordi.dev)
